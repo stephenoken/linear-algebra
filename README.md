@@ -4,4 +4,4 @@ Implementation of linear algebra formulas. Written in Haskell, because why the h
 
 ---
 
-Written as part of the [Linear Algebra Refresher Course](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953). Of course it's an area in which I know very little about. So I wouldn't really call it a refresher.
+Written as part of the [Linear Algebra Refresher Course](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953). It's an area in which I know very little about; so I wouldn't really call it a refresher.
